@@ -1,0 +1,87 @@
+#Login information for epic fight patron server. Do not change these values manually
+access_token = ""
+refresh_token = ""
+#Allowed Values: NULL, DISCORD, PATREON
+provider = "NULL"
+
+[ingame]
+	show_target_indicator = true
+	#Allowed Values: NONE, HURT, TARGET, TARGET_AND_HURT
+	health_bar_show_option = "HURT"
+	show_epicfight_attributes = true
+	#Range: 0.0 ~ 1.0
+	target_outline_color = 0.0
+	#Allowed Values: NONE, CROSSHAIR, HIGHLIGHT, CROSSHAIR_AND_HIGHLIGHT
+	mine_block_guide_option = "CROSSHAIR"
+	enable_target_entity_guide = true
+	blood_effects = true
+	#Range: 0 ~ 30
+	max_hit_projectiles = 30
+	first_person_model = true
+	enable_player_vanilla_model = true
+	enable_cosmetics = true
+	use_compute_shader = false
+	enable_pov_action = true
+	#Range: 1 ~ 10
+	long_press_count = 2
+	camera_auto_switch = false
+	#Allowed Values: NONE, INTERACTION, ITEM_USE, INTERACTION_AND_ITEMUSE
+	key_conflict_resolve_scope = "INTERACTION"
+	#Allowed Values: ADAPTIVE, SWITCH_MODE
+	preference_work = "ADAPTIVE"
+	#Defines how the camera toggles perspectives.
+	#
+	#    1. Vanilla (Default)
+	#       Uses Minecraft’s default behavior.
+	#       Cycles through all available perspectives.
+	#
+	#    2. Skip Third-Person Front Perspective
+	#       Skips only the front view when toggling.
+	#       Other perspectives remain available.
+	#
+	#Allowed Values: VANILLA, SKIP_THIRD_PERSON_FRONT
+	camera_perspective_toggle_mode = "VANILLA"
+	combat_preferred_items = ["epicfight:golden_longsword", "dungeons_and_combat:crimson_sickle_sword", "dungeons_and_combat:ceremonial_dagger", "epicfight:wooden_longsword", "dungeons_and_combat:silver_sword", "minecraft:crossbow", "dungeons_and_combat:cursed_molten_blazing_sword", "epicfight:golden_tachi", "epicfight:diamond_spear", "dungeons_and_combat:dagger", "dungeons_and_combat:dragonsteel_ice_greatsword", "dungeons_and_combat:long_katana", "dungeons_and_combat:dragonsteel_lightning_sickle", "dungeons_and_combat:netherite_claymore", "dungeons_and_combat:molten_cryolite_sickle", "dungeons_and_combat:dragon_greatsword_bone", "epicfight:iron_spear", "dungeons_and_combat:molten_dark_steel_sword", "dungeons_and_combat:dragon_lance_bone", "dungeons_and_combat:dragonsteel_fire_sword", "epicfight:iron_tachi", "minecraft:bow", "irons_spellbooks:misery", "epicfight:diamond_greatsword", "dungeons_and_combat:sandstone_fist", "dungeons_and_combat:diamond_lance", "dungeons_and_combat:cursed_steel_dagger", "dungeons_and_combat:molten_blazing_lance", "dungeons_and_combat:dragon_greatsword_lightning", "dungeons_and_combat:dragonsteel_ice_katana", "dungeons_and_combat:dawn_breaker_sword", "dungeons_and_combat:dragon_dagger_bone", "dungeons_and_combat:crimson_sickle", "epicfight:golden_dagger", "dungeons_and_combat:molten_cryolite_sword", "dungeons_and_combat:dragon_sword_ice", "dungeons_and_combat:steel_wolf_sword", "epicfight:stone_tachi", "epicfight:iron_greatsword", "epicfight:wooden_greatsword", "dungeons_and_combat:molten_blazing_fists", "minecraft:wooden_sword", "epicfight:wooden_spear", "dungeons_and_combat:slimy_knife", "epicfight:uchigatana", "dungeons_and_combat:sandstorm_sword", "dungeons_and_combat:wooden_knife", "dungeons_and_combat:dragonsteel_lightning_greatsword", "minecraft:netherite_sword", "epicfight:stone_longsword", "dungeons_and_combat:blessed_gold_axe_war", "epicfight:wooden_tachi", "epicfight:glove", "dungeons_and_combat:dragonsteel_ice_sickle", "epicfight:netherite_longsword", "dungeons_and_combat:wooden_battle_staff", "epicfight:netherite_dagger", "dungeons_and_combat:titanium_greatsword", "dungeons_and_combat:bronze_dagger", "dungeons_and_combat:cursed_molten_blazing_fist", "dungeons_and_combat:titanium_dragon_sword", "minecraft:stone_sword", "minecraft:iron_sword", "dungeons_and_combat:true_sword", "dungeons_and_combat:crimson_sovereign_sword", "dungeons_and_combat:titanium_sword", "dungeons_and_combat:molten_bone_sword", "dungeons_and_combat:neptunium_trident", "minecraft:trident", "dungeons_and_combat:diamond_sickle", "dungeons_and_combat:saw_cleaver_sickle", "epicfight:golden_spear", "dungeons_and_combat:netherite_sword", "dungeons_and_combat:broken_sword", "dungeons_and_combat:golden_sickle", "dungeons_and_combat:blessed_gold_fist", "dungeons_and_combat:copper_dagger", "dungeons_and_combat:stone_spear", "dungeons_and_combat:ebony_sickle", "dungeons_and_combat:wooden_mace", "dungeons_and_combat:acid_molten_blazing_fists", "irons_spellbooks:magehunter", "dungeons_and_combat:dragonsteel_fire_long_sword", "dungeons_and_combat:stone_knife", "dungeons_and_combat:wooden_staff", "dungeons_and_combat:ebony_long_sword", "dungeons_and_combat:golden_lance", "dungeons_and_combat:neptunium_dagger", "dungeons_and_combat:netherite_dagger", "dungeons_and_combat:dragonsteel_ice_sword", "dungeons_and_combat:royal_steel_sword", "dungeons_and_combat:long_sickle", "minecraft:diamond_sword", "dungeons_and_combat:dragonsteel_lightning_katana", "irons_spellbooks:autoloader_crossbow", "dungeons_and_combat:delta_sword", "dungeons_and_combat:stone_lance", "dungeons_and_combat:horde_torch_sword", "dungeons_and_combat:sandstorm_greatsword", "dungeons_and_combat:steel_wolf_greatsword", "minecraft:golden_sword", "dungeons_and_combat:iron_rapier", "dungeons_and_combat:acid_molten_blazing_sword", "dungeons_and_combat:dragon_sword_lightning", "dungeons_and_combat:gold_lance", "dungeons_and_combat:dragon_sword_bone", "dungeons_and_combat:sunrise_sickle", "irons_spellbooks:keeper_flamberge", "dungeons_and_combat:golden_glaive", "dungeons_and_combat:titanium_sickle", "dungeons_and_combat:sunrise_sword", "dungeons_and_combat:dragon_lance_fire", "dungeons_and_combat:morning_star_mace", "dungeons_and_combat:dragon_dagger_lightning", "dungeons_and_combat:crimson_scythe", "dungeons_and_combat:diamond_claymore", "dungeons_and_combat:pyromancer_scepter", "dungeons_and_combat:sandstone_axe_war", "epicfight:diamond_dagger", "epicfight:stone_spear", "epicfight:netherite_greatsword", "dungeons_and_combat:steel_sword", "dungeons_and_combat:molten_dark_steel_dagger", "epicfight:iron_dagger", "dungeons_and_combat:molten_cryolite_greatsword", "dungeons_and_combat:crimson_bloodweave_sword", "dungeons_and_combat:deserter_steel_sword", "dungeons_and_combat:dragonsteel_fire_sickle", "epicfight:iron_longsword", "dungeons_and_combat:molten_bone_greatsword", "epicfight:netherite_tachi", "dungeons_and_combat:silver_dagger", "dungeons_and_combat:molten_cryolite_lance", "dungeons_and_combat:ebony_dagger", "dungeons_and_combat:bronze_sword", "dungeons_and_combat:dragon_lance_ice", "dungeons_and_combat:cryolite_sword", "dungeons_and_combat:dragon_greatsword_ice", "dungeons_and_combat:dragonsteel_fire_katana", "irons_spellbooks:claymore", "dungeons_and_combat:crimson_long_sword", "dungeons_and_combat:dragonsteel_lightning_sword", "epicfight:bokken", "dungeons_and_combat:elden_sensu_dagger", "epicfight:netherite_spear", "dungeons_and_combat:dragon_greatsword_fire", "dungeons_and_combat:dragon_lance_lightning", "dungeons_and_combat:saw_cleaver_glaive", "epicfight:diamond_tachi", "epicfight:diamond_longsword", "dungeons_and_combat:molten_blazing_sword", "dungeons_and_combat:dragon_sword_fire", "dungeons_and_combat:dragonsteel_fire_greatsword", "epicfight:wooden_dagger", "dungeons_and_combat:dragon_dagger_fire", "dungeons_and_combat:dragonsteel_lightning_long_sword", "dungeons_and_combat:silver_lance", "dungeons_and_combat:dragonsteel_ice_long_sword", "dungeons_and_combat:cryolite_lance", "dungeons_and_combat:dragon_dagger_ice", "irons_spellbooks:amethyst_rapier", "dungeons_and_combat:cryolite_greatsword", "epicfight:stone_dagger", "dungeons_and_combat:diamond_sword", "dungeons_and_combat:ebony_scythe", "dungeons_and_combat:steel_dagger", "dungeons_and_combat:silver_spear", "dungeons_and_combat:cryolite_sickle", "dungeons_and_combat:golden_lance_light", "epicfight:golden_greatsword", "dungeons_and_combat:iron_dagger", "dungeons_and_combat:netherite_trident", "dungeons_and_combat:oath_sword", "epicfight:stone_greatsword", "dungeons_and_combat:true_claymore", "irons_spellbooks:spellbreaker"]
+	mining_preferred_items = []
+
+	[ingame.camera]
+		#Allowed Values: ALWAYS_BACK, WHEN_AIMING, ALWAYS
+		camera_mode = "WHEN_AIMING"
+		#Range: -10 ~ 10
+		horizontal_location = -5
+		#Range: -2 ~ 5
+		vertical_location = 0
+		#Range: 6 ~ 10
+		zoom = 6
+		#Range: 5 ~ 25
+		lock_on_range = 20
+		lock_on_quick_shift = true
+
+	[ingame.ui]
+		stamina_bar_x = 120
+		stamina_bar_y = 10
+		#Allowed Values: LEFT, RIGHT, CENTER
+		stamina_bar_x_base = "RIGHT"
+		#Allowed Values: TOP, BOTTOM, CENTER
+		stamina_bar_y_base = "BOTTOM"
+		weapon_innate_x = 42
+		weapon_innate_y = 48
+		#Allowed Values: LEFT, RIGHT, CENTER
+		weapon_innate_x_base = "RIGHT"
+		#Allowed Values: TOP, BOTTOM, CENTER
+		weapon_innate_y_base = "BOTTOM"
+		passives_x = 70
+		passives_y = 36
+		#Allowed Values: LEFT, RIGHT, CENTER
+		passives_x_base = "RIGHT"
+		#Allowed Values: TOP, BOTTOM, CENTER
+		passives_y_base = "BOTTOM"
+		#Allowed Values: HORIZONTAL, VERTICAL
+		passives_align_direction = "HORIZONTAL"
+		charging_bar_x = -119
+		charging_bar_y = 60
+		#Allowed Values: LEFT, RIGHT, CENTER
+		charging_bar_x_base = "CENTER"
+		#Allowed Values: TOP, BOTTOM, CENTER
+		charging_bar_y_base = "CENTER"
+
