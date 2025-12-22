@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2025-12-22T00:10:35.330Z",
+  "generatedAt": "2025-12-22T00:42:23.106Z",
   "files": [
     {
       "path": "config/advancementplaques-common.toml",
@@ -3505,6 +3505,12 @@
       "url": "https://raw.githubusercontent.com/maxgreg360-beep/Launcher-Clor0/main/admin_tools/archivos_del_pack/mods/YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
       "hash": "c0a57a7d5a0cea0297f82a482490fc1e7933695f",
       "size": 13014967
+    },
+    {
+      "path": "options.txt",
+      "url": "https://raw.githubusercontent.com/maxgreg360-beep/Launcher-Clor0/main/admin_tools/archivos_del_pack/options.txt",
+      "hash": "ce437c52f91001c23a553fe2589e3a2bea59e1cc",
+      "size": 11875
     },
     {
       "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (No Animated Eyes).zip",
