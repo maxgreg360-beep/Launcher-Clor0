@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2025-12-22T00:42:23.106Z",
+  "generatedAt": "2025-12-22T19:17:56.337Z",
   "files": [
     {
       "path": "config/advancementplaques-common.toml",
@@ -1719,12 +1719,6 @@
       "size": 834
     },
     {
-      "path": "config/shouldersurfing-client.toml",
-      "url": "https://raw.githubusercontent.com/maxgreg360-beep/Launcher-Clor0/main/admin_tools/archivos_del_pack/config/shouldersurfing-client.toml",
-      "hash": "8e13601b0e840a54e886d68404dbf2e783a48b7a",
-      "size": 16424
-    },
-    {
       "path": "config/skinlayers.json",
       "url": "https://raw.githubusercontent.com/maxgreg360-beep/Launcher-Clor0/main/admin_tools/archivos_del_pack/config/skinlayers.json",
       "hash": "9552e0366319f47881639dbcb36713bbfad98a58",
@@ -3361,12 +3355,6 @@
       "url": "https://raw.githubusercontent.com/maxgreg360-beep/Launcher-Clor0/main/admin_tools/archivos_del_pack/mods/rusticdelight-forge-1.20.1-1.4.1.jar",
       "hash": "5519aad2d247e5a90fe23ff5eb33fb2c71ab5716",
       "size": 461282
-    },
-    {
-      "path": "mods/ShoulderSurfing-Forge-1.20.1-4.17.0.jar",
-      "url": "https://raw.githubusercontent.com/maxgreg360-beep/Launcher-Clor0/main/admin_tools/archivos_del_pack/mods/ShoulderSurfing-Forge-1.20.1-4.17.0.jar",
-      "hash": "77741047e50205980a6eb518aec2514784584c09",
-      "size": 263677
     },
     {
       "path": "mods/skinlayers3d-forge-1.10.1-mc1.20.1.jar",
