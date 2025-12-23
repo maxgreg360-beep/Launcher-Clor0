@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2025-12-23T16:30:53.441Z",
+  "generatedAt": "2025-12-23T16:36:44.035Z",
   "files": [
     {
       "path": "config/advancementplaques-common.toml",
@@ -2061,18 +2061,6 @@
       "size": 52449474
     },
     {
-      "path": "mods/Apotheosis-1.20.1-7.4.8.jar",
-      "url": "https://raw.githubusercontent.com/maxgreg360-beep/Launcher-Clor0/main/admin_tools/archivos_del_pack/mods/Apotheosis-1.20.1-7.4.8.jar",
-      "hash": "e508c4724a24f0c80836818fcdd3df6424b1fc40",
-      "size": 2803994
-    },
-    {
-      "path": "mods/ApothicAttributes-1.20.1-1.3.7.jar",
-      "url": "https://raw.githubusercontent.com/maxgreg360-beep/Launcher-Clor0/main/admin_tools/archivos_del_pack/mods/ApothicAttributes-1.20.1-1.3.7.jar",
-      "hash": "1dc0744d17f0861fe6b067798d39abce9d8e0e86",
-      "size": 227511
-    },
-    {
       "path": "mods/appleskin-forge-mc1.20.1-2.5.1.jar",
       "url": "https://raw.githubusercontent.com/maxgreg360-beep/Launcher-Clor0/main/admin_tools/archivos_del_pack/mods/appleskin-forge-mc1.20.1-2.5.1.jar",
       "hash": "81919356f84eab14258db98924b66c3c38e372b1",
@@ -3517,12 +3505,6 @@
       "url": "https://raw.githubusercontent.com/maxgreg360-beep/Launcher-Clor0/main/admin_tools/archivos_del_pack/resourcepacks/VanillaTweaks_r134248_MC1.20.x.zip",
       "hash": "ba43f90cd7cc5531743a2fc35e10e123a1886a4a",
       "size": 1974304
-    },
-    {
-      "path": "resourcepacks/§eExtended_Illumina_1.20x.zip",
-      "url": "https://raw.githubusercontent.com/maxgreg360-beep/Launcher-Clor0/main/admin_tools/archivos_del_pack/resourcepacks/§eExtended_Illumina_1.20x.zip",
-      "hash": "742698fce5a146f3cdc290538b569a12595dc0ea",
-      "size": 4866
     },
     {
       "path": "resourcepacks/§eExtended_Illumina_NEA_1.20x.zip",
