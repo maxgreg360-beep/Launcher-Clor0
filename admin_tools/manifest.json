@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2025-12-22T19:17:56.337Z",
+  "generatedAt": "2025-12-23T16:01:58.347Z",
   "files": [
     {
       "path": "config/advancementplaques-common.toml",
@@ -3507,18 +3507,6 @@
       "size": 251791
     },
     {
-      "path": "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
-      "url": "https://raw.githubusercontent.com/maxgreg360-beep/Launcher-Clor0/main/admin_tools/archivos_del_pack/resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip",
-      "hash": "7049cc12935ff4be20173c908ad946f530861a4c",
-      "size": 321871
-    },
-    {
-      "path": "resourcepacks/Better+Lanterns+v1.2(mc-1.20.1).zip",
-      "url": "https://raw.githubusercontent.com/maxgreg360-beep/Launcher-Clor0/main/admin_tools/archivos_del_pack/resourcepacks/Better+Lanterns+v1.2(mc-1.20.1).zip",
-      "hash": "705b7fa82c39ff568f0b2ea4ebebe71ce2c9be19",
-      "size": 51369
-    },
-    {
       "path": "resourcepacks/FreshAnimations_v1.10.2.zip",
       "url": "https://raw.githubusercontent.com/maxgreg360-beep/Launcher-Clor0/main/admin_tools/archivos_del_pack/resourcepacks/FreshAnimations_v1.10.2.zip",
       "hash": "2976d7e921cc8d0bd7643741a95ed31bbe36458b",
@@ -3529,12 +3517,6 @@
       "url": "https://raw.githubusercontent.com/maxgreg360-beep/Launcher-Clor0/main/admin_tools/archivos_del_pack/resourcepacks/VanillaTweaks_r134248_MC1.20.x.zip",
       "hash": "ba43f90cd7cc5531743a2fc35e10e123a1886a4a",
       "size": 1974304
-    },
-    {
-      "path": "resourcepacks/VanillaTweaks_r321393_MC1.21.x.zip",
-      "url": "https://raw.githubusercontent.com/maxgreg360-beep/Launcher-Clor0/main/admin_tools/archivos_del_pack/resourcepacks/VanillaTweaks_r321393_MC1.21.x.zip",
-      "hash": "1f383db5de3211569a92b37f841067fe599b291a",
-      "size": 2831058
     },
     {
       "path": "resourcepacks/§eExtended_Illumina_1.20x.zip",
