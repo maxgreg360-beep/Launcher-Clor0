@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2025-12-23T16:28:24.012Z",
+  "generatedAt": "2025-12-23T16:30:53.441Z",
   "files": [
     {
       "path": "config/advancementplaques-common.toml",
@@ -2047,6 +2047,12 @@
       "url": "https://raw.githubusercontent.com/maxgreg360-beep/Launcher-Clor0/main/admin_tools/archivos_del_pack/mods/AdvancementPlaques-1.20.1-forge-1.6.9.jar",
       "hash": "6e7b01db61f9646977bd06e9d85492a667d4a8bd",
       "size": 208850
+    },
+    {
+      "path": "mods/alexsmobs-1.22.9.jar",
+      "url": "https://raw.githubusercontent.com/maxgreg360-beep/Launcher-Clor0/main/admin_tools/archivos_del_pack/mods/alexsmobs-1.22.9.jar",
+      "hash": "dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f",
+      "size": 26350793
     },
     {
       "path": "mods/AmbientSounds_FORGE_v6.3.1_mc1.20.1.jar",
