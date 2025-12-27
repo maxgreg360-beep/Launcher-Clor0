@@ -1,6 +1,9 @@
 {
-  "version": "1.0",
-  "generatedAt": "2025-12-26T15:33:36.983Z",
+  "launcher_info": {
+    "version": "1.0.1",
+    "url": "https://github.com/maxgreg360-beep/Launcher-Clor0/releases/download/v1.0.1/Clor0-Setup-1.0.1.exe",
+    "mandatory": true
+  },
   "files": [
     {
       "path": "mods/AdvancementPlaques-1.20.1-forge-1.6.9.jar",
